@@ -1,45 +1,55 @@
-[Discord](https://discord.gg/zHYvQtDw4t)
-join our own discord server if u want lol
+<div align="center">
+  <img src="https://media.discordapp.net/attachments/1504732654229262398/1504846911746871358/standard_8.gif?ex=6a087966&is=6a0727e6&hm=bdb9ba40d58322ccf3fa060824f3cd6e07483ddc98084894ee09e9195ec5769c&=&width=1184&height=666" alt="DinhKhanhInstance Banner" width="100%"/>
+</div>
 
-# LIST OF WORKING GETHIDDENPROPERTY EXEC: FLUXUS,SWIFT,velocity
-# https://github.com/luau/UniversalSynSaveInstance
+# ⚡ DinhKhanhInstance
 
-# Loadstring
+**Next-Generation Instance Management Platform**
 
-```lua
-local synsaveinstance = loadstring(game:HttpGet("https://raw.githubusercontent.com/khanhdevxyz-tech/DinhKhanhInstance-Save-Terrain/refs/heads/main/saveinstance.luau", true), "saveinstance")();
-local SaveinstanceOptions = {  }
-synsaveinstance(SaveinstanceOptions);
-```
+[![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)](https://github.com/yourusername/DinhKhanhInstance)
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![Discord](https://img.shields.io/badge/Discord-Join-7289DA.svg)](https://discord.gg/yourinvite)
 
-# rewritten version
+---
 
-```lua
-local synsaveinstance = loadstring(game:HttpGet("https://raw.githubusercontent.com/khanhdevxyz-tech/DinhKhanhInstance-Save-Terrain/refs/heads/main/saveinstance_rewrite.luau", true), "saveinstance")();
-local SaveinstanceOptions = {usekonstantdecompiler=false} --set to true if u dont have a decompiler
-synsaveinstance(SaveinstanceOptions);
-```
+## 🚀 About The Project
 
-```lua
-local synsaveinstance = loadstring(game:HttpGet("https://raw.githubusercontent.com/khanhdevxyz-tech/DinhKhanhInstance-Save-Terrain/refs/heads/main/saveinstance_rewrite.luau", true), "saveinstance")();
-local SaveinstanceOptions = {usekonstantdecompiler=true} --set to true if u dont have a decompiler
-synsaveinstance(SaveinstanceOptions);
-```
+**DinhKhanhInstance** is a powerful, scalable, and high-performance instance orchestration solution designed for modern cloud-native applications. Whether you're managing microservices, game servers, or distributed systems, DinhKhanhInstance provides the tools you need to deploy, scale, and monitor your infrastructure with ease.
 
-# manual version
+### ✨ Key Features
 
-```lua
-https://www.youtube.com/watch?v=ZDZdmhqLLeM&t=6s
-```
+- ⚡ **Lightning Fast** - Optimized for sub-second instance spin-ups
+- 🔄 **Auto-scaling** - Dynamic resource allocation based on real-time demand
+- 🛡️ **Built-in Security** - End-to-end encryption and role-based access control
+- 📊 **Real-time Monitoring** - Comprehensive dashboards and alerting system
+- 🔌 **Plugin Architecture** - Extend functionality with custom plugins
+- 🌍 **Multi-cloud Support** - Seamless deployment across AWS, Azure, GCP, and on-prem
 
-# 💖 Support Their & Their Work
+---
 
-<a href='https://ko-fi.com/M4M1JNH5G' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' title='KO-FI' /></a>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M1JNH5G "KO-FI")
-<br />
-[![ko-fi](https://user-images.githubusercontent.com/95628489/231759262-25661006-b7ca-4967-a79d-2b465cd9575a.png)](https://ko-fi.com/M4M1JNH5G "KO-FI QR-CODE")
+## 📦 Installation
 
-# DISCORD SERVER:<br />
+### Prerequisites
+- Node.js (v18+)
+- Docker (optional, for containerized deployment)
+- PostgreSQL (v14+)
 
-<https://discord.gg/zHYvQtDw4t> **/** <https://discord.gg/zHYvQtDw4t><br />
-[<img src="https://media.discordapp.net/attachments/1504732654229262398/1504846911746871358/standard_8.gif?ex=6a087966&is=6a0727e6&hm=bdb9ba40d58322ccf3fa060824f3cd6e07483ddc98084894ee09e9195ec5769c&=&width=688&height=386)<br />
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/DinhKhanhInstance.git
+
+# Navigate to project directory
+cd DinhKhanhInstance
+
+# Install dependencies
+npm install
+
+# Set up environment variables
+cp .env.example .env
+
+# Run database migrations
+npm run migrate
+
+# Start the development server
+npm run dev
