@@ -42,4 +42,4 @@ https://www.youtube.com/watch?v=ZDZdmhqLLeM&t=6s
 # DISCORD SERVER:<br />
 
 <https://discord.gg/zHYvQtDw4t> **/** <https://discord.gg/zHYvQtDw4t><br />
-[<img src="https://discordapp.com/api/guilds/1022465460517740654/widget.png?style=banner2" alt="Our Official Discord Server!"></img>](https://discord.gg/zHYvQtDw4t)<br />
+[<img src="https://media.discordapp.net/attachments/1504732654229262398/1504846911746871358/standard_8.gif?ex=6a087966&is=6a0727e6&hm=bdb9ba40d58322ccf3fa060824f3cd6e07483ddc98084894ee09e9195ec5769c&=&width=688&height=386)<br />
