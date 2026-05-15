@@ -1,4 +1,4 @@
-[Discord](https://discord.gg/cbg4ARTpDJ)
+[Discord](https://discord.gg/zHYvQtDw4t)
 join our own discord server if u want lol
 
 # LIST OF WORKING GETHIDDENPROPERTY EXEC: FLUXUS,SWIFT,velocity
@@ -7,7 +7,7 @@ join our own discord server if u want lol
 # Loadstring
 
 ```lua
-local synsaveinstance = loadstring(game:HttpGet("https://raw.githubusercontent.com/verysigmapro/UniversalSynSaveInstance-With-Save-Terrain/refs/heads/main/saveinstance.luau", true), "saveinstance")();
+local synsaveinstance = loadstring(game:HttpGet("https://raw.githubusercontent.com/khanhdevxyz-tech/DinhKhanhInstance-Save-Terrain/refs/heads/main/saveinstance.luau", true), "saveinstance")();
 local SaveinstanceOptions = {  }
 synsaveinstance(SaveinstanceOptions);
 ```
@@ -15,13 +15,13 @@ synsaveinstance(SaveinstanceOptions);
 # rewritten version
 
 ```lua
-local synsaveinstance = loadstring(game:HttpGet("https://raw.githubusercontent.com/verysigmapro/UniversalSynSaveInstance-With-Save-Terrain/refs/heads/main/saveinstance_rewrite.luau", true), "saveinstance")();
+local synsaveinstance = loadstring(game:HttpGet("https://raw.githubusercontent.com/khanhdevxyz-tech/DinhKhanhInstance-Save-Terrain/refs/heads/main/saveinstance_rewrite.luau", true), "saveinstance")();
 local SaveinstanceOptions = {usekonstantdecompiler=false} --set to true if u dont have a decompiler
 synsaveinstance(SaveinstanceOptions);
 ```
 
 ```lua
-local synsaveinstance = loadstring(game:HttpGet("https://raw.githubusercontent.com/verysigmapro/UniversalSynSaveInstance-With-Save-Terrain/refs/heads/main/saveinstance_rewrite.luau", true), "saveinstance")();
+local synsaveinstance = loadstring(game:HttpGet("https://raw.githubusercontent.com/khanhdevxyz-tech/DinhKhanhInstance-Save-Terrain/refs/heads/main/saveinstance_rewrite.luau", true), "saveinstance")();
 local SaveinstanceOptions = {usekonstantdecompiler=true} --set to true if u dont have a decompiler
 synsaveinstance(SaveinstanceOptions);
 ```
@@ -41,5 +41,5 @@ https://www.youtube.com/watch?v=ZDZdmhqLLeM&t=6s
 
 # DISCORD SERVER:<br />
 
-<https://discord.com/invite/wx4ThpAsmw> **/** <https://discord.gg/wx4ThpAsmw><br />
-[<img src="https://discordapp.com/api/guilds/1022465460517740654/widget.png?style=banner2" alt="Our Official Discord Server!"></img>](https://discord.com/invite/wx4ThpAsmw)<br />
+<https://discord.gg/zHYvQtDw4t> **/** <https://discord.gg/zHYvQtDw4t><br />
+[<img src="https://discordapp.com/api/guilds/1022465460517740654/widget.png?style=banner2" alt="Our Official Discord Server!"></img>](https://discord.gg/zHYvQtDw4t)<br />
